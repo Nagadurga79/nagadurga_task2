@@ -1,0 +1,20 @@
+1.	What is kernel ?
+ kernel is the centrel module of an operating system.
+2. Why we create kernel?
+
+3. What is library in python?
+ a python library is also a group of interconnected modules.it contains code bundles that can be reused in a variety of programs.it simplifiles and facilities python programming for programmers.
+4. What is package in python?
+ a python package is a collection of modules.
+5. What is difference between library and package in python?
+  a library is a set of modules which makes sense to be together and that can be used in a program or another library.
+    A pacakage is a unit of distrubition that can contain a library or an executable or both.its a way to share code with the community.
+6. how to create a my name in python jupyter(syntax)?
+ with the help of string, we can create my name in python jupyter 
+Ex: varible = value
+7. What is difference between "string" and "int" data types in python? 
+  string is a character that are used for conveying textual information.
+      Ints are whole numbers they are used to represent numerical data.
+8. What is "syntax error: EOL error" in python?
+ EOL while scanning string literal is due to missing quotes at the end of a string.
+
